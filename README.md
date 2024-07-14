@@ -72,7 +72,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/lucaslopesdasilva/">
-        <img src="https://media.licdn.com/dms/image/D4D03AQGhKFQlheZCnQ/profile-displayphoto-shrink_800_800/0/1694812521940?e=1719446400&v=beta&t=OD6N7c7fNUHNPKp8R5y02gpVE00vwO0W-q0SIJhNaa4" width="100px;" /><br>
+        <img src="https://avatars.githubusercontent.com/u/119815116?v=4" width="100px;" /><br>
         <sub>
           <b>Lucas Silva</b>
         </sub>
