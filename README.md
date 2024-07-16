@@ -1,5 +1,5 @@
 <h1 align="center">
-  Sorting and Evaluation of Game Data <img width="25px" src="https://raw.githubusercontent.com/EvanderInacio/Portfolio/73b9d0b179efc28c26d11e8d44570901d6f8b520/public/icon.svg"/>
+  Sorting and Evaluation of Game Data <img width="25px" src="https://raw.githubusercontent.com/eoLucasS/portfolio/main/assets/img/icon.svg"/>
 </h1>
 
 <p align="center">
